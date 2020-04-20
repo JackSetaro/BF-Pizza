@@ -3,6 +3,16 @@
     src: url(../fonts/GOGOIA-Regular.otf);
 }
 
+html {
+overflow: scroll;
+overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+width: 0px;
+background: transparent;
+}
+
 body {
 	margin: 0;
   height: 100%;
