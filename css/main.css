@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'GOGOIA';
+    src: url(../fonts/GOGOIA-Regular.otf);
+}
+
+body {
+	margin: 0;
+  height: 100%;
+  font-family: GOGOIA;
+}
+
+.header {
+  font-family: GOGOIA;
+  padding: 1px;
+  text-align: center;
+  background: #a33d36;
+  color: white;
+  font-size: 25px;
+}
+
+.header p{
+  padding: 5px;
+  margin:0px;
+}
+
+.center {
+  position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+}
+
+#mainlogo{
+  position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -90%);
+}
+
+
+.footer{
+  background-color: #a33d36;
+  padding: 65px;
+  color: black;
+}
+
+.photo{
+  margin: 15px;
+}
