@@ -1,0 +1,98 @@
+.parallax {
+    /* The image used */
+    background-image: url(../imgs/burger.jpg);
+
+    /* Set a specific height */
+    min-height: 500px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax2 {
+    /* The image used */
+    background-image: url(../imgs/booths.jpg);
+
+    /* Set a specific height */
+    min-height: 500px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax3 {
+    /* The image used */
+    background-image: url(../imgs/salad.jpg);
+
+    /* Set a specific height */
+    min-height: 500px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax4 {
+    /* The image used */
+    background-image: url(../imgs/wine.jpg);
+
+    /* Set a specific height */
+    min-height: 500px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax5 {
+    /* The image used */
+    background-image: url(../imgs/calzone.jpg);
+
+    /* Set a specific height */
+    min-height: 500px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.midWhite{
+  background-color: #ffffff;
+  padding: 65px;
+  color: black;
+}
+
+.midWhite h2{
+  font-size: 30px;
+}
+
+.midBlack{
+  background-color: #3d3737;
+  padding: 65px;
+  color: white;
+}
+
+.midBlack h2{
+  font-size: 30px;
+}
+
+/*
+.midTextWhite{
+  border: 2px solid black;
+}
+
+.midTextBlack{
+  border: 2px solid white;
+}
+*/
