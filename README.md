@@ -1,3 +1,4 @@
+<span style="color:red">!When pushing a new update or feature please always push to a personal branch !</span>.
 # BF-Pizza
 Collaborative Repository for the Beacon Falls Pizza Palace Website
 
