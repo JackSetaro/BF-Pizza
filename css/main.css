@@ -3,6 +3,30 @@
     src: url(../fonts/GOGOIA-Regular.otf);
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+
+}
+
+li a:hover {
+  color: #bd3d06;
+}
+
+a:link {
+  color:#e8e000;
+}
+
+/* visited link */
+a:visited {
+  color:#e8e000;
+}
+
 html {
 overflow: scroll;
 overflow-x: hidden;
@@ -39,6 +63,15 @@ body {
         left: 50%;
         margin-right: -50%;
         transform: translate(-50%, -50%);
+}
+
+.navbar {
+  position: absolute;
+        top: 8%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+        font-size:30px;
 }
 
 #mainlogo{
